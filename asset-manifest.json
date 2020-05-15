@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/bachelor/static/css/main.d511e712.chunk.css",
-    "main.js": "/bachelor/static/js/main.1fdf4b43.chunk.js",
-    "main.js.map": "/bachelor/static/js/main.1fdf4b43.chunk.js.map",
-    "runtime-main.js": "/bachelor/static/js/runtime-main.dbd93c6b.js",
-    "runtime-main.js.map": "/bachelor/static/js/runtime-main.dbd93c6b.js.map",
-    "static/css/2.69121389.chunk.css": "/bachelor/static/css/2.69121389.chunk.css",
-    "static/js/2.f4251427.chunk.js": "/bachelor/static/js/2.f4251427.chunk.js",
-    "static/js/2.f4251427.chunk.js.map": "/bachelor/static/js/2.f4251427.chunk.js.map",
-    "index.html": "/bachelor/index.html",
-    "precache-manifest.f56e471f4b4ebc401a1b027a4ce41301.js": "/bachelor/precache-manifest.f56e471f4b4ebc401a1b027a4ce41301.js",
-    "service-worker.js": "/bachelor/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/bachelor/static/css/2.69121389.chunk.css.map",
-    "static/css/main.d511e712.chunk.css.map": "/bachelor/static/css/main.d511e712.chunk.css.map",
-    "static/js/2.f4251427.chunk.js.LICENSE.txt": "/bachelor/static/js/2.f4251427.chunk.js.LICENSE.txt",
-    "static/media/coffee.jpg": "/bachelor/static/media/coffee.3d3747f5.jpg",
-    "static/media/image.png": "/bachelor/static/media/image.c1847251.png",
-    "static/media/plus.png": "/bachelor/static/media/plus.618a58be.png",
-    "static/media/question.png": "/bachelor/static/media/question.09c8b406.png"
+    "main.css": "/bachelor-tst/static/css/main.d511e712.chunk.css",
+    "main.js": "/bachelor-tst/static/js/main.08f556c9.chunk.js",
+    "main.js.map": "/bachelor-tst/static/js/main.08f556c9.chunk.js.map",
+    "runtime-main.js": "/bachelor-tst/static/js/runtime-main.9b4db03e.js",
+    "runtime-main.js.map": "/bachelor-tst/static/js/runtime-main.9b4db03e.js.map",
+    "static/css/2.69121389.chunk.css": "/bachelor-tst/static/css/2.69121389.chunk.css",
+    "static/js/2.f4251427.chunk.js": "/bachelor-tst/static/js/2.f4251427.chunk.js",
+    "static/js/2.f4251427.chunk.js.map": "/bachelor-tst/static/js/2.f4251427.chunk.js.map",
+    "index.html": "/bachelor-tst/index.html",
+    "precache-manifest.573f6c5aaf7c061dd68d14b1bc6b1ae6.js": "/bachelor-tst/precache-manifest.573f6c5aaf7c061dd68d14b1bc6b1ae6.js",
+    "service-worker.js": "/bachelor-tst/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/bachelor-tst/static/css/2.69121389.chunk.css.map",
+    "static/css/main.d511e712.chunk.css.map": "/bachelor-tst/static/css/main.d511e712.chunk.css.map",
+    "static/js/2.f4251427.chunk.js.LICENSE.txt": "/bachelor-tst/static/js/2.f4251427.chunk.js.LICENSE.txt",
+    "static/media/coffee.jpg": "/bachelor-tst/static/media/coffee.3d3747f5.jpg",
+    "static/media/image.png": "/bachelor-tst/static/media/image.c1847251.png",
+    "static/media/plus.png": "/bachelor-tst/static/media/plus.618a58be.png",
+    "static/media/question.png": "/bachelor-tst/static/media/question.09c8b406.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbd93c6b.js",
+    "static/js/runtime-main.9b4db03e.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.f4251427.chunk.js",
     "static/css/main.d511e712.chunk.css",
-    "static/js/main.1fdf4b43.chunk.js"
+    "static/js/main.08f556c9.chunk.js"
   ]
 }
