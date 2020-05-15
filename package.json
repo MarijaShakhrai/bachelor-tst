@@ -2,7 +2,6 @@
   "homepage": "http://MarijaShakhrai.github.io/bachelor",
   "name": "wmx-bachelor",
   "version": "1.0.0",
-  "private": true,
   "keywords": [
     "react",
     "starter"
@@ -17,9 +16,9 @@
     "jquery": "^3.5.0",
     "merge": "1.2.1",
     "popper.js": "^1.16.0",
-    "react": "16.11.0",
+    "react": "16.13.1",
     "react-bootstrap": "^1.0.1",
-    "react-dom": "16.11.0",
+    "react-dom": "16.13.1",
     "react-facebook-login": "^4.1.1",
     "react-google-login": "^5.1.10",
     "react-redux": "7.1.1",
