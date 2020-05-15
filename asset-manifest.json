@@ -6,14 +6,14 @@
     "runtime-main.js": "/bachelor/static/js/runtime-main.dbd93c6b.js",
     "runtime-main.js.map": "/bachelor/static/js/runtime-main.dbd93c6b.js.map",
     "static/css/2.69121389.chunk.css": "/bachelor/static/css/2.69121389.chunk.css",
-    "static/js/2.8f3bc03b.chunk.js": "/bachelor/static/js/2.8f3bc03b.chunk.js",
-    "static/js/2.8f3bc03b.chunk.js.map": "/bachelor/static/js/2.8f3bc03b.chunk.js.map",
+    "static/js/2.f4251427.chunk.js": "/bachelor/static/js/2.f4251427.chunk.js",
+    "static/js/2.f4251427.chunk.js.map": "/bachelor/static/js/2.f4251427.chunk.js.map",
     "index.html": "/bachelor/index.html",
-    "precache-manifest.29ebb026541b2515ff91edf275a5021d.js": "/bachelor/precache-manifest.29ebb026541b2515ff91edf275a5021d.js",
+    "precache-manifest.8c05bce4f42a36bc9552ce40d3a43b64.js": "/bachelor/precache-manifest.8c05bce4f42a36bc9552ce40d3a43b64.js",
     "service-worker.js": "/bachelor/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/bachelor/static/css/2.69121389.chunk.css.map",
     "static/css/main.d511e712.chunk.css.map": "/bachelor/static/css/main.d511e712.chunk.css.map",
-    "static/js/2.8f3bc03b.chunk.js.LICENSE.txt": "/bachelor/static/js/2.8f3bc03b.chunk.js.LICENSE.txt",
+    "static/js/2.f4251427.chunk.js.LICENSE.txt": "/bachelor/static/js/2.f4251427.chunk.js.LICENSE.txt",
     "static/media/coffee.jpg": "/bachelor/static/media/coffee.3d3747f5.jpg",
     "static/media/image.png": "/bachelor/static/media/image.c1847251.png",
     "static/media/plus.png": "/bachelor/static/media/plus.618a58be.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.dbd93c6b.js",
     "static/css/2.69121389.chunk.css",
-    "static/js/2.8f3bc03b.chunk.js",
+    "static/js/2.f4251427.chunk.js",
     "static/css/main.d511e712.chunk.css",
     "static/js/main.8564261e.chunk.js"
   ]

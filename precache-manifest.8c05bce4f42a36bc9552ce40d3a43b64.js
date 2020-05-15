@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba54f04c9a1a9cba90cce1256233fbce",
+    "revision": "003b487a920305ce611b99aa56b67deb",
     "url": "/bachelor/index.html"
   },
   {
-    "revision": "41b3a8e6ad15830f068a",
+    "revision": "01c4e4657766f126add0",
     "url": "/bachelor/static/css/2.69121389.chunk.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bachelor/static/css/main.d511e712.chunk.css"
   },
   {
-    "revision": "41b3a8e6ad15830f068a",
-    "url": "/bachelor/static/js/2.8f3bc03b.chunk.js"
+    "revision": "01c4e4657766f126add0",
+    "url": "/bachelor/static/js/2.f4251427.chunk.js"
   },
   {
-    "revision": "54b7df32013cfb0d78d59eff8990a2f3",
-    "url": "/bachelor/static/js/2.8f3bc03b.chunk.js.LICENSE.txt"
+    "revision": "d0e2089c7b6ac4802c7735efb777a15a",
+    "url": "/bachelor/static/js/2.f4251427.chunk.js.LICENSE.txt"
   },
   {
     "revision": "9b9bdf4ee64885cbe794",
